@@ -4,7 +4,7 @@ Playing with different kinds of components
 ```
 
 ## DEMO
-[DEMO](https://nountie.github.io/placeholder-list/)
+[DEMO](https://nountie.github.io/placeholder-list/dist)
 
 ## Project setup
 ```
