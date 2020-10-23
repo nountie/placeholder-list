@@ -35,7 +35,6 @@ export default {
   },
   methods: {
     onLoad() {
-      console.log(this.imgSrc);
       setTimeout(() => {
         this.loaded = true;
       }, 150);
