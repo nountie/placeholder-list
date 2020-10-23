@@ -1,6 +1,6 @@
 # Placeholder List
 ```
-Playing with some advanced components
+Playing with different kinds of components
 ```
 
 ## DEMO
